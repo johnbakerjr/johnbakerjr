@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnbakerjr
 - 👀 I’m interested in applying NLP techniques to fields such as real estate, defense, space, and business processes.
-- 🌱 I’m a data scientist at Sabel Systems and I recently completed a Master's in data analytics from The Ohio State University.
+- 🌱 I’m an AI Engineer at Sabel Systems and I recently completed a Master's in data analytics from The Ohio State University.
 - 📫 How to reach me: johnbaker.1665@gmail.com
 
 <!---
